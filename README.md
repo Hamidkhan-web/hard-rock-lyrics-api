@@ -1,1 +1,1 @@
-https://hamidkhan-web.github.io/hard-rock-lyrics-api/
+api link: https://api.lyrics.ovh/suggest/summer
